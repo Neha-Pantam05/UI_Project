@@ -1,5 +1,5 @@
 import React from "react";
-import Section1 from "./Components/Section1/section1";
+import Section1 from "./Components/Section1/Section1.jsx";
 
 const App = () => {
   const users = [
